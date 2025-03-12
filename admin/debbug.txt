@@ -1,0 +1,1 @@
+Unknown column 'establishment_id' in 'field list'
